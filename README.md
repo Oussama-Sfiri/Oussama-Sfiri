@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on **new Projects**
 
 - ⚡ Fun fact **"it's working as coded"**
+
+  <img align="right" alt="Coding" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
 <div align="center">
   <a href="sfirioussama@gmail.com" target="_blank">
@@ -28,7 +30,6 @@
 
 ###
 
-<img align="right" alt="Coding" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
