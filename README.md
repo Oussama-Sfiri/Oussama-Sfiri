@@ -69,7 +69,11 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="13" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="postgresql logo"  />
+  <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="mongodb logo"  />
+  <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="50" alt="oracle logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="13" />
@@ -95,7 +99,6 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
 </div>
 
 ###
