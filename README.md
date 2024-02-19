@@ -99,6 +99,10 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" alt="figma logo"  />
+  <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" height="50" alt="trello logo"  />
+  <img width="13" />
 </div>
 
 ###
