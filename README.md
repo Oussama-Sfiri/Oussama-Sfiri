@@ -73,6 +73,8 @@
   <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="mongodb logo"  />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="kafka logo"  />
+  <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="50" alt="oracle logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
