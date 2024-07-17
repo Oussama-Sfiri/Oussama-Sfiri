@@ -1,22 +1,8 @@
 <h2 align="center">Hi 👋, I'm Oussama Sfiri a passionate software engineering student from MOROCCO</h2>
 
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sfiri&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sfiri" /> </p>
-<p>
-  <img align="right" alt="Coding" width="270px" height="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-- 🔭 I’m currently working on **E-commerce App**
-
-- 🌱 I’m currently learning **React & SpringBoot**
-
-- 👯 I’m looking to collaborate on **new Projects**
-
-- ⚡ Fun fact **"it's working as coded"**
-</p>
-
 
   
-<div align="left">
+<div align="center">
   <a href="sfirioussama@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
