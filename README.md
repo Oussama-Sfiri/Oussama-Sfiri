@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Oussama Sfiri a passionate software engineering student from MOROCCO</h2>
 
-
-  
+<h3 align="left">Connect with me:</h3>  
 <div align="center">
   <a href="sfirioussama@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -19,7 +18,7 @@
 
 ###
 
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="13" />
@@ -97,15 +96,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oussama-Sfiri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Oussama-Sfiri&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Sfiri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="160" alt="languages graph"  />
+<a href="https://github.com/Oussama-Sfiri">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oussama-Sfiri&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oussama-Sfiri&theme=2077" height="180em" alt="languages graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oussama-Sfiri&theme=2077" height="180em" alt="repo languages graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oussama-Sfiri&theme=2077" height="180em" alt="productivity graph"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussama-Sfiri&theme=2077" height="180em" alt="profile-details"/>
+<img src="https://streak-stats.demolab.com?user=Oussama-Sfiri&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="180em" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<!-- ![snake gif](https://github.com/ELEF-TQ/ELEF-TQ/blob/output/github-contribution-grid-snake.gif) -->
-
-###
