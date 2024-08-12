@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Oussama Sfiri a passionate software engineering student from MOROCCO</h2>
 
+<img src="https://www.codewars.com/users/Oussama-Sfiri/badges/micro" alt="codewars badge" />
+
 <h3 align="left">Connect with me:</h3>  
 <div align="center">
   <a href="sfirioussama@gmail.com" target="_blank">
